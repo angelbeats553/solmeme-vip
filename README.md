@@ -6,6 +6,10 @@ SOLMEME.VIP is a real-time research radar for monitoring newly launched Solana m
 
 **Official website:** https://solmeme.vip  
 **Contact:** solmeme@solmeme.vip
+## Official White Paper
+
+Read the complete [SOLMEME.VIP White Paper](WHITEPAPER.md).
+
 
 ## What SOLMEME.VIP Does
 
